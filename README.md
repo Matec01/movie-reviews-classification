@@ -1,8 +1,8 @@
-# Movie Reviews Classification Project
+# 🍿 Movie Reviews Classification Project
 
 A movie reviews classification project supported by AI models.
 
-## Description 
+## 📋 Description 
 
 This project was developed as part of my exploration of Natural Language Processing (NLP) techniques and models.
 The work focused on experimenting with different approaches for sentiment analysis of movie reviews, using both custom-built datasets and the IMDb movie reviews dataset. The experiments included:
